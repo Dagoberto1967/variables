@@ -1,8 +1,8 @@
 ---
 title: "HISTORIA, CONCEPTOS Y VARIABLES"
-subtitle: "TALLER_1A"
+subtitle: "TALLER_1"
 author: 
-  - name: Dagoberto Salgado Horta
+  - name: Dagoberto Salgado Horta<br>Fabian Camilo Salgado Horta
     affiliation: "Escuela Superior de Administración Pública"
     affiliation-url: "https://www.esap.edu.co/"
 date: today

@@ -1,6 +1,6 @@
 ---
 title: "HISTORIA, CONCEPTOS Y VARIABLES"
-subtitle: "TALLER_1"
+subtitle: "TALLER_1A"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Escuela Superior de Administración Pública"
@@ -12,7 +12,7 @@ title-block-banner: "#7ca84f"
 format:
   html:
     page-layout: full
-    fontsize: 12pt
+    fontsize: 14pt
     toc: true
     toc-location: right
     number-sections: true
